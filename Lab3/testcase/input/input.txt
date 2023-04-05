@@ -1,0 +1,15 @@
+home: s
+party: t
+tangyuan: 4
+people: 3
+3 1 2 2
+3 3 4 4
+supermarket: 3
+a1 1
+a2 1
+a3 2
+a1  s  1
+t   s  30
+a2  a1 5
+a3  a2 1
+t   a2 1
