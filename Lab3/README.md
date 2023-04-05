@@ -1,1 +1,1 @@
-# Exchamging Tangyuans - Dijkatra's Algorithm and Ford-Fulkerson Algorithm Implementation
+# Exchanging Tangyuans - Dijkatra's Algorithm and Ford-Fulkerson Algorithm Implementation
