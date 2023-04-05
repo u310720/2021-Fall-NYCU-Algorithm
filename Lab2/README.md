@@ -1,1 +1,1 @@
-# Routing - Kruskal Algorithm Implementation
+# Routing - Kruskal's Algorithm Implementation
